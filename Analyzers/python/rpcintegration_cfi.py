@@ -25,6 +25,8 @@ def use_fs_trackcounting(process):
     process.TFileService.fileName = process.trackcounting.outFileName.value()
 
 ntupler = cms.EDAnalyzer('NtupleMaker',
+    puInfoTag = cms.InputTag('addPileupInfo'),
+
     emuHitTag = cms.InputTag('simEmtfDigis'),
     emuTrackTag = cms.InputTag('simEmtfDigis'),
     genPartTag = cms.InputTag('genParticles'),

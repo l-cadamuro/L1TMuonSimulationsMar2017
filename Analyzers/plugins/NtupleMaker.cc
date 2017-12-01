@@ -29,6 +29,8 @@
 #include "SimDataFormats/TrackingAnalysis/interface/TrackingParticle.h"
 #include "SimDataFormats/TrackingAnalysis/interface/TrackingParticleFwd.h"
 
+#include "SimDataFormats/PileupSummaryInfo/interface/PileupSummaryInfo.h"
+
 #include "DataFormats/L1TMuon/interface/EMTFHit.h"
 #include "DataFormats/L1TMuon/interface/EMTFTrack.h"
 #include "L1Trigger/L1TMuonEndCap/interface/TrackTools.h"
@@ -48,6 +50,7 @@ public:
   enum subsystem_type{kTT = 20, kNSubsystems};
 };
 
+typedef std::vector<PileupSummaryInfo> PileupSummaryInfoCollection;
 
 // _____________________________________________________________________________
 class NtupleMaker : public edm::one::EDAnalyzer<edm::one::SharedResources> {
@@ -78,6 +81,7 @@ private:
   const edm::InputTag   emuTrackTag_;
   const edm::InputTag   genPartTag_;
   const edm::InputTag   trkPartTag_;
+  const edm::InputTag   puInfoTag_;
   const std::string     outFileName_;
   int verbose_;
 
@@ -86,15 +90,22 @@ private:
   edm::EDGetTokenT<l1t::EMTFTrackCollection>    emuTrackToken_;
   edm::EDGetTokenT<reco::GenParticleCollection> genPartToken_;
   edm::EDGetTokenT<TrackingParticleCollection>  trkPartToken_;
+  edm::EDGetTokenT<PileupSummaryInfoCollection> puInfoToken_;
 
   l1t::EMTFHitCollection      emuHits_;
   l1t::EMTFTrackCollection    emuTracks_;
   reco::GenParticleCollection genParts_;
   TrackingParticleCollection  trkParts_;
 
+  edm::Handle<PileupSummaryInfoCollection> puInfoHandle_;
+
   // TTree
   TTree* tree;
 
+  // Event properties
+  std::unique_ptr<int                  >  nPU;
+  std::unique_ptr<float                >  nPU_true;
+  
   // Hits
   std::unique_ptr<std::vector<int16_t> >  vh_endcap;
   std::unique_ptr<std::vector<int16_t> >  vh_station;
@@ -106,6 +117,8 @@ private:
   std::unique_ptr<std::vector<int16_t> >  vh_bx;
   std::unique_ptr<std::vector<int16_t> >  vh_type;  // subsystem: DT=0,CSC=1,RPC=2,GEM=3
   std::unique_ptr<std::vector<int16_t> >  vh_neighbor;
+  std::unique_ptr<std::vector<int16_t> >  vh_zonecode;
+  std::unique_ptr<std::vector<int16_t> >  vh_zonehit;
   //
   std::unique_ptr<std::vector<int16_t> >  vh_strip;
   std::unique_ptr<std::vector<int16_t> >  vh_wire;
@@ -165,6 +178,7 @@ NtupleMaker::NtupleMaker(const edm::ParameterSet& iConfig) :
     emuTrackTag_  (iConfig.getParameter<edm::InputTag>("emuTrackTag")),
     genPartTag_   (iConfig.getParameter<edm::InputTag>("genPartTag")),
     trkPartTag_   (iConfig.getParameter<edm::InputTag>("trkPartTag")),
+    puInfoTag_    (iConfig.getParameter<edm::InputTag>("puInfoTag")),
     outFileName_  (iConfig.getParameter<std::string>  ("outFileName")),
     verbose_      (iConfig.getUntrackedParameter<int> ("verbosity"))
 {
@@ -174,6 +188,7 @@ NtupleMaker::NtupleMaker(const edm::ParameterSet& iConfig) :
   emuTrackToken_ = consumes<l1t::EMTFTrackCollection>   (emuTrackTag_);
   genPartToken_  = consumes<reco::GenParticleCollection>(genPartTag_);
   trkPartToken_  = consumes<TrackingParticleCollection> (trkPartTag_);
+  puInfoToken_   = consumes<PileupSummaryInfoCollection>(puInfoTag_);
 }
 
 NtupleMaker::~NtupleMaker() {}
@@ -228,6 +243,15 @@ void NtupleMaker::getHandles(const edm::Event& iEvent, const edm::EventSetup& iS
     }
     if (!trkParts_handle.isValid()) {
       edm::LogError("NtupleMaker") << "Cannot get the product: " << trkPartTag_;
+    }
+  }
+
+  if (!iEvent.isRealData()) {
+    if (!puInfoToken_.isUninitialized()) {
+      iEvent.getByToken(puInfoToken_, puInfoHandle_);
+    }
+    if (!puInfoHandle_.isValid()) {
+      edm::LogError("NtupleMaker") << "Cannot get the product: " << puInfoTag_;
     }
   }
 
@@ -382,6 +406,10 @@ void NtupleMaker::process() {
     vh_bx         ->push_back(hit.BX());
     vh_type       ->push_back(hit.Subsystem());
     vh_neighbor   ->push_back(hit.Neighbor());
+    vh_zonecode   ->push_back(hit.Zone_code());
+    vh_zonehit    ->push_back(hit.Zone_hit());
+
+    // std::cout << "- hit " << &hit-&emuHits_[0] << " " << hit.Zone_code() << "  " << hit.Zone_hit() << std::endl; // zone_code is the zone, what is zone_ht?
     //
     vh_strip      ->push_back(hit.Strip());
     vh_wire       ->push_back(hit.Wire());
@@ -404,7 +432,7 @@ void NtupleMaker::process() {
     vh_sim_tp2    ->push_back(get_sim_tp2(hit));
   }
   (*vh_size) = emuHits_.size();
-
+  
   // Tracks
   for (const auto& trk : emuTracks_) {
     vt_pt         ->push_back(trk.Pt());
@@ -457,10 +485,24 @@ void NtupleMaker::process() {
     //assert((*vp_size) <= 1);  // expect 0 or 1 gen particle
   }
 
+  // pileup summary info
+  if (puInfoHandle_.isValid()) { // will be valid onlu in case of simulation
+    for(auto puInfoIt = puInfoHandle_->begin(); puInfoIt != puInfoHandle_->end(); ++puInfoIt) {
+      if(puInfoIt -> getBunchCrossing() == 0) { 
+        (*nPU)      = puInfoIt->getPU_NumInteractions();  // the number of interactions overlayed in this event (In-Time)
+        (*nPU_true) = puInfoIt->getTrueNumInteractions(); // mean of Out-Of-Time + In-Time PU Poisson distribution
+        break;
+      } 
+    }
+  }
+
   // Fill
   tree->Fill();
 
   // Clear
+  (*nPU)        = -999;
+  (*nPU_true)   = -999.;
+  //
   vh_endcap     ->clear();
   vh_station    ->clear();
   vh_ring       ->clear();
@@ -471,6 +513,8 @@ void NtupleMaker::process() {
   vh_bx         ->clear();
   vh_type       ->clear();
   vh_neighbor   ->clear();
+  vh_zonecode   ->clear();
+  vh_zonehit    ->clear();
   //
   vh_strip      ->clear();
   vh_wire       ->clear();
@@ -538,6 +582,10 @@ void NtupleMaker::makeTree() {
   edm::Service<TFileService> fs;
   tree = fs->make<TTree>("tree", "tree");
 
+  // General
+  nPU           .reset(new int(-999)             );
+  nPU_true      .reset(new float(-999.)          );
+
   // Hits
   vh_endcap     .reset(new std::vector<int16_t>());
   vh_station    .reset(new std::vector<int16_t>());
@@ -549,6 +597,8 @@ void NtupleMaker::makeTree() {
   vh_bx         .reset(new std::vector<int16_t>());
   vh_type       .reset(new std::vector<int16_t>());
   vh_neighbor   .reset(new std::vector<int16_t>());
+  vh_zonecode   .reset(new std::vector<int16_t>());
+  vh_zonehit    .reset(new std::vector<int16_t>());
   //
   vh_strip      .reset(new std::vector<int16_t>());
   vh_wire       .reset(new std::vector<int16_t>());
@@ -600,6 +650,9 @@ void NtupleMaker::makeTree() {
   vp_size       .reset(new int32_t(0)            );
 
   // Set branches
+  // General
+  tree->Branch("nPU"          , &(*nPU          ));
+  tree->Branch("nPU_true"     , &(*nPU_true     ));
   // Hits
   tree->Branch("vh_endcap"    , &(*vh_endcap    ));
   tree->Branch("vh_station"   , &(*vh_station   ));
@@ -611,6 +664,8 @@ void NtupleMaker::makeTree() {
   tree->Branch("vh_bx"        , &(*vh_bx        ));
   tree->Branch("vh_type"      , &(*vh_type      ));
   tree->Branch("vh_neighbor"  , &(*vh_neighbor  ));
+  tree->Branch("vh_zonecode"  , &(*vh_zonecode  ));
+  tree->Branch("vh_zonehit"   , &(*vh_zonehit   ));
   //
   tree->Branch("vh_strip"     , &(*vh_strip     ));
   tree->Branch("vh_wire"      , &(*vh_wire      ));
