@@ -1,0 +1,10 @@
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_1.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_2.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_3.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_4.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_5.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_6.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_7.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_8.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_9.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU200/ParticleGuns/CRAB3/170719_130808/0000/SingleNeutrino_PU200_10.root

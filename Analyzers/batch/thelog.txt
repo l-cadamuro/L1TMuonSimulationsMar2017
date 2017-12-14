@@ -1,0 +1,793 @@
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_0.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_0.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_1.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_1.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_10.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_10.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_100.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_100.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_101.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_101.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_102.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_102.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_103.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_103.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_104.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_104.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_105.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_105.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_106.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_106.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_107.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_107.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_108.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_108.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_109.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_109.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_11.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_11.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_110.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_110.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_111.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_111.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_112.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_112.root")...
+700
+*** OH NO FAULTY NTUPLE *** 
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_113.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_113.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_114.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_114.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_115.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_115.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_116.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_116.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_117.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_117.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_118.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_118.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_119.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_119.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_12.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_12.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_120.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_120.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_121.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_121.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_122.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_122.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_123.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_123.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_124.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_124.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_125.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_125.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_126.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_126.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_127.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_127.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_128.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_128.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_129.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_129.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_13.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_13.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_130.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_130.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_131.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_131.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_132.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_132.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_133.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_133.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_134.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_134.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_135.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_135.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_136.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_136.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_137.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_137.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_138.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_138.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_139.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_139.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_14.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_14.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_140.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_140.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_141.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_141.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_142.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_142.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_143.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_143.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_144.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_144.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_145.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_145.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_146.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_146.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_147.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_147.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_148.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_148.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_149.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_149.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_15.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_15.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_150.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_150.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_151.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_151.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_152.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_152.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_153.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_153.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_154.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_154.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_155.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_155.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_156.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_156.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_157.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_157.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_158.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_158.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_16.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_16.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_160.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_160.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_161.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_161.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_162.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_162.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_163.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_163.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_164.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_164.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_165.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_165.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_166.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_166.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_167.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_167.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_168.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_168.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_169.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_169.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_17.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_17.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_170.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_170.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_171.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_171.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_172.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_172.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_173.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_173.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_174.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_174.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_175.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_175.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_176.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_176.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_177.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_177.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_179.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_179.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_18.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_18.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_180.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_180.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_181.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_181.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_182.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_182.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_183.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_183.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_184.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_184.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_185.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_185.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_186.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_186.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_187.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_187.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_188.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_188.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_189.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_189.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_19.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_19.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_190.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_190.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_191.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_191.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_192.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_192.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_193.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_193.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_194.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_194.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_195.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_195.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_196.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_196.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_197.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_197.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_198.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_198.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_199.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_199.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_2.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_2.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_20.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_20.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_21.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_21.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_22.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_22.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_23.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_23.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_24.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_24.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_25.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_25.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_26.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_26.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_27.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_27.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_28.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_28.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_29.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_29.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_3.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_3.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_30.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_30.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_31.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_31.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_32.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_32.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_33.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_33.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_34.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_34.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_35.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_35.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_36.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_36.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_37.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_37.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_38.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_38.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_39.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_39.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_4.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_4.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_40.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_40.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_41.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_41.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_42.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_42.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_43.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_43.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_44.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_44.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_45.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_45.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_46.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_46.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_47.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_47.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_48.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_48.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_49.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_49.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_5.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_5.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_50.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_50.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_51.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_51.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_52.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_52.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_53.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_53.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_54.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_54.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_55.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_55.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_56.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_56.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_57.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_57.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_58.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_58.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_59.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_59.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_6.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_6.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_60.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_60.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_61.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_61.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_62.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_62.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_63.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_63.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_64.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_64.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_65.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_65.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_66.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_66.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_67.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_67.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_68.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_68.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_69.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_69.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_7.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_7.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_70.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_70.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_71.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_71.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_72.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_72.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_73.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_73.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_74.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_74.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_75.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_75.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_76.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_76.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_77.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_77.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_78.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_78.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_79.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_79.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_8.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_8.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_80.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_80.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_81.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_81.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_82.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_82.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_83.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_83.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_84.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_84.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_85.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_85.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_86.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_86.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_87.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_87.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_88.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_88.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_89.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_89.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_9.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_9.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_90.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_90.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_91.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_91.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_92.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_92.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_93.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_93.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_94.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_94.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_95.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_95.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_96.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_96.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_97.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_97.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_98.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_98.root")...
+0
+root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_99.root
+
+Processing scanFileList.C("root://cmsxrootd.fnal.gov//store/user/lcadamur/EMTF_ntuples/SingleNeutrino_PU200_30Nov2017_bugFix/output/ntuple_99.root")...
+0

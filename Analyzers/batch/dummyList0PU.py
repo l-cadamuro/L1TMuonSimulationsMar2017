@@ -1,0 +1,4 @@
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleMuon_PositiveEndCap/ParticleGuns/CRAB3/170827_040548/0000/SingleMuon_PositiveEndCap_1.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleMuon_PositiveEndCap/ParticleGuns/CRAB3/170827_040548/0000/SingleMuon_PositiveEndCap_2.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleMuon_PositiveEndCap/ParticleGuns/CRAB3/170827_040548/0000/SingleMuon_PositiveEndCap_3.root
+/store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleMuon_PositiveEndCap/ParticleGuns/CRAB3/170827_040548/0000/SingleMuon_PositiveEndCap_4.root
