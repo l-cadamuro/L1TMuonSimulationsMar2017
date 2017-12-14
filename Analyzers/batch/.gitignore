@@ -1,0 +1,3 @@
+*.root
+jobs_*/
+*.pyc
