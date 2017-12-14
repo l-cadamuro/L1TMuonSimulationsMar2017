@@ -1,0 +1,7 @@
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_1.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_2.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_3.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_4.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_5.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_6.root
+root://cmsxrootd.fnal.gov//store/group/l1upgrades/L1MuonTrigger/P2_9_2_3_patch1/SingleNeutrino_PU50/ParticleGuns/CRAB3/170719_045955/0000/SingleNeutrino_PU50_7.root
