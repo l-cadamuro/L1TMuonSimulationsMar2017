@@ -1,0 +1,552 @@
+[INFO] maxEvents :  -1
+[INFO] offset    :  0
+[INFO] Opening file: File('/uscms/home/lcadamur/nobackup/JiaFu_Ntuples_EMTF_PhaseI_12_12_2017/rateplots_mc_r305310_run2_all.0.root')
+Processing event: 0
+Processing event: 1000
+ >>>>> Filling as real event number  1282 dtheta1  1
+Processing event: 2000
+Processing event: 3000
+Processing event: 4000
+Processing event: 5000
+Processing event: 6000
+Processing event: 7000
+Processing event: 8000
+Processing event: 9000
+Processing event: 10000
+Processing event: 11000
+Processing event: 12000
+Processing event: 13000
+Processing event: 14000
+Processing event: 15000
+Processing event: 16000
+Processing event: 17000
+Processing event: 18000
+Processing event: 19000
+Processing event: 20000
+Processing event: 21000
+Processing event: 22000
+Processing event: 23000
+Processing event: 24000
+Processing event: 25000
+Processing event: 26000
+Processing event: 27000
+Processing event: 28000
+ >>>>> Filling as real event number  28976 dtheta1  -999
+Processing event: 29000
+Processing event: 30000
+ >>>>> Filling as real event number  30333 dtheta1  -1
+Processing event: 31000
+Processing event: 32000
+ >>>>> Filling as real event number  32036 dtheta1  -1
+Processing event: 33000
+ >>>>> Filling as real event number  33368 dtheta1  1
+Processing event: 34000
+ >>>>> Filling as real event number  34730 dtheta1  0
+Processing event: 35000
+ >>>>> Filling as real event number  35429 dtheta1  -1
+Processing event: 36000
+Processing event: 37000
+Processing event: 38000
+ >>>>> Filling as real event number  38786 dtheta1  -1
+Processing event: 39000
+Processing event: 40000
+Processing event: 41000
+Processing event: 42000
+Processing event: 43000
+Processing event: 44000
+Processing event: 45000
+Processing event: 46000
+Processing event: 47000
+Processing event: 48000
+ >>>>> Filling as real event number  48305 dtheta1  0
+Processing event: 49000
+Processing event: 50000
+Processing event: 51000
+Processing event: 52000
+Processing event: 53000
+Processing event: 54000
+Processing event: 55000
+Processing event: 56000
+Processing event: 57000
+Processing event: 58000
+ >>>>> Filling as real event number  58700 dtheta1  0
+Processing event: 59000
+Processing event: 60000
+Processing event: 61000
+Processing event: 62000
+Processing event: 63000
+Processing event: 64000
+ >>>>> Filling as real event number  64479 dtheta1  -999
+ >>>>> Filling as real event number  64650 dtheta1  -7
+Processing event: 65000
+ >>>>> Filling as real event number  65825 dtheta1  0
+Processing event: 66000
+Processing event: 67000
+Processing event: 68000
+Processing event: 69000
+Processing event: 70000
+Processing event: 71000
+Processing event: 72000
+Processing event: 73000
+Processing event: 74000
+Processing event: 75000
+ >>>>> Filling as real event number  75847 dtheta1  0
+Processing event: 76000
+Processing event: 77000
+ >>>>> Filling as real event number  77078 dtheta1  -1
+Processing event: 78000
+Processing event: 79000
+ >>>>> Filling as real event number  79740 dtheta1  -2
+ >>>>> Filling as real event number  79740 dtheta1  -2
+Processing event: 80000
+Processing event: 81000
+Processing event: 82000
+Processing event: 83000
+Processing event: 84000
+Processing event: 85000
+Processing event: 86000
+Processing event: 87000
+Processing event: 88000
+Processing event: 89000
+Processing event: 90000
+Processing event: 91000
+Processing event: 92000
+Processing event: 93000
+Processing event: 94000
+Processing event: 95000
+ >>>>> Filling as real event number  95643 dtheta1  -1
+Processing event: 96000
+Processing event: 97000
+Processing event: 98000
+ >>>>> Filling as real event number  98732 dtheta1  0
+Processing event: 99000
+Processing event: 100000
+Processing event: 101000
+Processing event: 102000
+Processing event: 103000
+Processing event: 104000
+ >>>>> Filling as real event number  104076 dtheta1  5
+Processing event: 105000
+Processing event: 106000
+Processing event: 107000
+ >>>>> Filling as real event number  107261 dtheta1  0
+ >>>>> Filling as real event number  107892 dtheta1  0
+Processing event: 108000
+Processing event: 109000
+Processing event: 110000
+Processing event: 111000
+Processing event: 112000
+Processing event: 113000
+Processing event: 114000
+Processing event: 115000
+Processing event: 116000
+Processing event: 117000
+Processing event: 118000
+Processing event: 119000
+Processing event: 120000
+Processing event: 121000
+Processing event: 122000
+Processing event: 123000
+Processing event: 124000
+Processing event: 125000
+Processing event: 126000
+ >>>>> Filling as real event number  126045 dtheta1  0
+Processing event: 127000
+ >>>>> Filling as real event number  127908 dtheta1  -1
+Processing event: 128000
+Processing event: 129000
+Processing event: 130000
+Processing event: 131000
+Processing event: 132000
+Processing event: 133000
+Processing event: 134000
+Processing event: 135000
+Processing event: 136000
+ >>>>> Filling as real event number  136100 dtheta1  0
+Processing event: 137000
+Processing event: 138000
+Processing event: 139000
+Processing event: 140000
+Processing event: 141000
+ >>>>> Filling as real event number  141062 dtheta1  -1
+Processing event: 142000
+Processing event: 143000
+Processing event: 144000
+Processing event: 145000
+Processing event: 146000
+Processing event: 147000
+Processing event: 148000
+Processing event: 149000
+Processing event: 150000
+ >>>>> Filling as real event number  150158 dtheta1  0
+ >>>>> Filling as real event number  150977 dtheta1  -1
+Processing event: 151000
+Processing event: 152000
+Processing event: 153000
+Processing event: 154000
+Processing event: 155000
+Processing event: 156000
+Processing event: 157000
+Processing event: 158000
+Processing event: 159000
+Processing event: 160000
+Processing event: 161000
+Processing event: 162000
+Processing event: 163000
+ >>>>> Filling as real event number  163972 dtheta1  0
+Processing event: 164000
+Processing event: 165000
+Processing event: 166000
+Processing event: 167000
+Processing event: 168000
+Processing event: 169000
+ >>>>> Filling as real event number  169636 dtheta1  0
+Processing event: 170000
+Processing event: 171000
+ >>>>> Filling as real event number  171495 dtheta1  -1
+Processing event: 172000
+Processing event: 173000
+Processing event: 174000
+Processing event: 175000
+ >>>>> Filling as real event number  175331 dtheta1  -1
+ >>>>> Filling as real event number  175331 dtheta1  -1
+Processing event: 176000
+ >>>>> Filling as real event number  176347 dtheta1  1
+Processing event: 177000
+Processing event: 178000
+Processing event: 179000
+Processing event: 180000
+Processing event: 181000
+Processing event: 182000
+ >>>>> Filling as real event number  182512 dtheta1  0
+ >>>>> Filling as real event number  182567 dtheta1  0
+ >>>>> Filling as real event number  182567 dtheta1  0
+Processing event: 183000
+ >>>>> Filling as real event number  183783 dtheta1  -1
+ >>>>> Filling as real event number  183783 dtheta1  -1
+Processing event: 184000
+ >>>>> Filling as real event number  184756 dtheta1  0
+Processing event: 185000
+Processing event: 186000
+ >>>>> Filling as real event number  186726 dtheta1  -1
+Processing event: 187000
+ >>>>> Filling as real event number  187162 dtheta1  -1
+Processing event: 188000
+ >>>>> Filling as real event number  188841 dtheta1  -1
+Processing event: 189000
+Processing event: 190000
+Processing event: 191000
+Processing event: 192000
+Processing event: 193000
+Processing event: 194000
+Processing event: 195000
+Processing event: 196000
+ >>>>> Filling as real event number  196783 dtheta1  -7
+ >>>>> Filling as real event number  196783 dtheta1  -7
+ >>>>> Filling as real event number  196892 dtheta1  -1
+Processing event: 197000
+Processing event: 198000
+Processing event: 199000
+Processing event: 200000
+Processing event: 201000
+Processing event: 202000
+Processing event: 203000
+Processing event: 204000
+Processing event: 205000
+Processing event: 206000
+Processing event: 207000
+Processing event: 208000
+Processing event: 209000
+Processing event: 210000
+Processing event: 211000
+ >>>>> Filling as real event number  211416 dtheta1  -1
+ >>>>> Filling as real event number  211416 dtheta1  -1
+Processing event: 212000
+Processing event: 213000
+ >>>>> Filling as real event number  213926 dtheta1  0
+Processing event: 214000
+ >>>>> Filling as real event number  214785 dtheta1  5
+ >>>>> Filling as real event number  214785 dtheta1  5
+Processing event: 215000
+Processing event: 216000
+Processing event: 217000
+Processing event: 218000
+ >>>>> Filling as real event number  218021 dtheta1  -1
+Processing event: 219000
+Processing event: 220000
+Processing event: 221000
+Processing event: 222000
+ >>>>> Filling as real event number  222487 dtheta1  1
+Processing event: 223000
+ >>>>> Filling as real event number  223333 dtheta1  -1
+ >>>>> Filling as real event number  223333 dtheta1  -1
+Processing event: 224000
+Processing event: 225000
+Processing event: 226000
+Processing event: 227000
+Processing event: 228000
+Processing event: 229000
+ >>>>> Filling as real event number  229639 dtheta1  -1
+Processing event: 230000
+Processing event: 231000
+Processing event: 232000
+Processing event: 233000
+Processing event: 234000
+Processing event: 235000
+ >>>>> Filling as real event number  235128 dtheta1  0
+Processing event: 236000
+Processing event: 237000
+Processing event: 238000
+Processing event: 239000
+Processing event: 240000
+Processing event: 241000
+Processing event: 242000
+Processing event: 243000
+Processing event: 244000
+Processing event: 245000
+Processing event: 246000
+Processing event: 247000
+ >>>>> Filling as real event number  247242 dtheta1  -999
+Processing event: 248000
+Processing event: 249000
+Processing event: 250000
+Processing event: 251000
+Processing event: 252000
+Processing event: 253000
+Processing event: 254000
+Processing event: 255000
+Processing event: 256000
+Processing event: 257000
+ >>>>> Filling as real event number  257633 dtheta1  0
+Processing event: 258000
+Processing event: 259000
+ >>>>> Filling as real event number  259672 dtheta1  -999
+Processing event: 260000
+ >>>>> Filling as real event number  260126 dtheta1  0
+Processing event: 261000
+Processing event: 262000
+Processing event: 263000
+Processing event: 264000
+Processing event: 265000
+Processing event: 266000
+Processing event: 267000
+Processing event: 268000
+Processing event: 269000
+ >>>>> Filling as real event number  269258 dtheta1  4
+Processing event: 270000
+Processing event: 271000
+Processing event: 272000
+Processing event: 273000
+Processing event: 274000
+ >>>>> Filling as real event number  274626 dtheta1  -1
+ >>>>> Filling as real event number  274626 dtheta1  -1
+Processing event: 275000
+Processing event: 276000
+Processing event: 277000
+Processing event: 278000
+ >>>>> Filling as real event number  278017 dtheta1  -1
+Processing event: 279000
+Processing event: 280000
+Processing event: 281000
+Processing event: 282000
+Processing event: 283000
+Processing event: 284000
+Processing event: 285000
+Processing event: 286000
+ >>>>> Filling as real event number  286671 dtheta1  1
+Processing event: 287000
+Processing event: 288000
+ >>>>> Filling as real event number  288782 dtheta1  -1
+ >>>>> Filling as real event number  288782 dtheta1  -1
+Processing event: 289000
+Processing event: 290000
+Processing event: 291000
+ >>>>> Filling as real event number  291262 dtheta1  1
+Processing event: 292000
+Processing event: 293000
+Processing event: 294000
+ >>>>> Filling as real event number  294543 dtheta1  2
+ >>>>> Filling as real event number  294543 dtheta1  2
+ >>>>> Filling as real event number  294750 dtheta1  -999
+ >>>>> Filling as real event number  294750 dtheta1  -999
+Processing event: 295000
+Processing event: 296000
+Processing event: 297000
+Processing event: 298000
+ >>>>> Filling as real event number  298068 dtheta1  -1
+Processing event: 299000
+Processing event: 300000
+ >>>>> Filling as real event number  300308 dtheta1  -1
+ >>>>> Filling as real event number  300570 dtheta1  0
+Processing event: 301000
+Processing event: 302000
+ >>>>> Filling as real event number  302216 dtheta1  -1
+Processing event: 303000
+Processing event: 304000
+Processing event: 305000
+Processing event: 306000
+Processing event: 307000
+Processing event: 308000
+Processing event: 309000
+ >>>>> Filling as real event number  309938 dtheta1  -1
+Processing event: 310000
+Processing event: 311000
+Processing event: 312000
+Processing event: 313000
+Processing event: 314000
+ >>>>> Filling as real event number  314230 dtheta1  1
+Processing event: 315000
+Processing event: 316000
+ >>>>> Filling as real event number  316098 dtheta1  0
+Processing event: 317000
+Processing event: 318000
+ >>>>> Filling as real event number  318167 dtheta1  -1
+ >>>>> Filling as real event number  318256 dtheta1  0
+Processing event: 319000
+Processing event: 320000
+Processing event: 321000
+Processing event: 322000
+Processing event: 323000
+Processing event: 324000
+Processing event: 325000
+Processing event: 326000
+Processing event: 327000
+Processing event: 328000
+Processing event: 329000
+Processing event: 330000
+Processing event: 331000
+ >>>>> Filling as real event number  331516 dtheta1  0
+ >>>>> Filling as real event number  331516 dtheta1  0
+ >>>>> Filling as real event number  331658 dtheta1  0
+Processing event: 332000
+ >>>>> Filling as real event number  332127 dtheta1  0
+ >>>>> Filling as real event number  332127 dtheta1  0
+Processing event: 333000
+Processing event: 334000
+Processing event: 335000
+ >>>>> Filling as real event number  335515 dtheta1  -999
+ >>>>> Filling as real event number  335655 dtheta1  0
+Processing event: 336000
+Processing event: 337000
+Processing event: 338000
+Processing event: 339000
+Processing event: 340000
+ >>>>> Filling as real event number  340042 dtheta1  0
+ >>>>> Filling as real event number  340483 dtheta1  -1
+ >>>>> Filling as real event number  340857 dtheta1  0
+Processing event: 341000
+Processing event: 342000
+Processing event: 343000
+Processing event: 344000
+Processing event: 345000
+Processing event: 346000
+Processing event: 347000
+Processing event: 348000
+Processing event: 349000
+Processing event: 350000
+Processing event: 351000
+Processing event: 352000
+Processing event: 353000
+ >>>>> Filling as real event number  353629 dtheta1  0
+Processing event: 354000
+Processing event: 355000
+Processing event: 356000
+Processing event: 357000
+Processing event: 358000
+Processing event: 359000
+Processing event: 360000
+Processing event: 361000
+Processing event: 362000
+Processing event: 363000
+Processing event: 364000
+Processing event: 365000
+Processing event: 366000
+Processing event: 367000
+Processing event: 368000
+Processing event: 369000
+ >>>>> Filling as real event number  369750 dtheta1  -1
+Processing event: 370000
+ >>>>> Filling as real event number  370149 dtheta1  1
+Processing event: 371000
+Processing event: 372000
+Processing event: 373000
+Processing event: 374000
+Processing event: 375000
+ >>>>> Filling as real event number  375494 dtheta1  -1
+Processing event: 376000
+Processing event: 377000
+Processing event: 378000
+Processing event: 379000
+Processing event: 380000
+Processing event: 381000
+Processing event: 382000
+Processing event: 383000
+Processing event: 384000
+Processing event: 385000
+Processing event: 386000
+Processing event: 387000
+Processing event: 388000
+Processing event: 389000
+Processing event: 390000
+Processing event: 391000
+ >>>>> Filling as real event number  391301 dtheta1  -999
+ >>>>> Filling as real event number  391425 dtheta1  1
+Processing event: 392000
+Processing event: 393000
+Processing event: 394000
+Processing event: 395000
+Processing event: 396000
+Processing event: 397000
+ >>>>> Filling as real event number  397445 dtheta1  -2
+ >>>>> Filling as real event number  397445 dtheta1  -2
+Processing event: 398000
+Processing event: 399000
+    trk_dtheta5_real  int:  99.0
+  trk_hit_type1_fake  int:  67.0
+hit_occupancy_csc_st4  int:  0.0
+hit_occupancy_csc_st2  int:  0.0
+hit_occupancy_csc_st3  int:  0.0
+  trk_hit_type2_fake  int:  67.0
+hit_occupancy_csc_st1  int:  0.0
+highest_emtf_absEtaMin0_absEtaMax2.5_qmin12_mctruth1_pt  int:  25250.0
+    trk_dtheta1_fake  int:  60.0
+    trk_dtheta1_real  int:  92.0
+  trk_hit_type4_fake  int:  67.0
+    trk_dtheta2_fake  int:  56.0
+      trk_dphi4_real  int:  67.0
+    trk_dtheta4_real  int:  96.0
+    trk_dtheta5_fake  int:  62.0
+hit_occupancy_rpc_st2  int:  0.0
+hit_occupancy_rpc_st3  int:  0.0
+  trk_hit_type3_real  int:  100.0
+hit_occupancy_rpc_st1  int:  0.0
+    trk_dtheta3_fake  int:  58.0
+hit_occupancy_rpc_st4  int:  0.0
+        trk_eta_real  int:  100.0
+      trk_dphi6_real  int:  91.0
+      trk_dphi1_real  int:  71.0
+      trk_dphi5_fake  int:  43.0
+      trk_dphi2_fake  int:  55.0
+    trk_dtheta6_real  int:  91.0
+      trk_dphi2_real  int:  88.0
+       trk_mode_real  int:  100.0
+  trk_hit_type4_real  int:  100.0
+highest_emtf_absEtaMin0_absEtaMax2.5_qmin12_pt  int:  29647.0
+  trk_hit_type2_real  int:  100.0
+        trk_eta_fake  int:  67.0
+highest_emtf_absEtaMin0_absEtaMax2.5_qmin12_mctruth3_pt  int:  21065.0
+      trk_dphi3_fake  int:  49.0
+    trk_dtheta6_fake  int:  55.0
+      trk_dphi1_fake  int:  52.0
+    trk_dtheta2_real  int:  88.0
+  trk_hit_type1_real  int:  100.0
+       trk_mode_fake  int:  67.0
+highest_emtf_absEtaMin0_absEtaMax2.5_qmin12_mctruth2_pt  int:  24317.0
+      trk_dphi3_real  int:  95.0
+    trk_dtheta3_real  int:  95.0
+      trk_dphi6_fake  int:  51.0
+      trk_dphi5_real  int:  68.0
+             nevents  int:  400000.0
+    trk_dtheta4_fake  int:  63.0
+      trk_dphi4_fake  int:  49.0
+  trk_hit_type3_fake  int:  67.0
