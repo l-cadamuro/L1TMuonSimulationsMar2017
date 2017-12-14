@@ -38,6 +38,8 @@
 #include "L1TMuonSimulations/Analyzers/interface/EMTFMCTruth.h"
 
 
+#define STORE_PTLUT_INFO true
+
 // From L1Trigger/L1TMuonEndCap/interface/MuonTriggerPrimitive.h
 class TriggerPrimitive {
 public:
@@ -158,6 +160,36 @@ private:
   std::unique_ptr<std::vector<int32_t> >  vt_hitref2;
   std::unique_ptr<std::vector<int32_t> >  vt_hitref3;
   std::unique_ptr<std::vector<int32_t> >  vt_hitref4;
+  
+  #if STORE_PTLUT_INFO
+  // -- L.C. 11/12/2017 : extra stuff to reproduce pT assignment
+  std::unique_ptr<std::vector<uint16_t> > vt_ptlut_address;
+  std::unique_ptr<std::vector<uint16_t> > vt_ptlut_mode;
+  std::unique_ptr<std::vector<uint16_t> > vt_ptlut_theta;
+  std::unique_ptr<std::vector<uint16_t> > vt_ptlut_st1_ring2;
+  std::unique_ptr<std::vector<uint16_t> > vt_ptlut_eta;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 6> > > vt_ptlut_delta_ph ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 6> > > vt_ptlut_delta_th ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 6> > > vt_ptlut_sign_ph  ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 6> > > vt_ptlut_sign_th  ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 4> > > vt_ptlut_cpattern ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 4> > > vt_ptlut_fr       ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 5> > > vt_ptlut_bt_vi    ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 5> > > vt_ptlut_bt_hi    ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 5> > > vt_ptlut_bt_ci    ;
+  // std::unique_ptr<std::vector<std::array<uint16_t, 5> > > vt_ptlut_bt_si    ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_delta_ph ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_delta_th ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_sign_ph  ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_sign_th  ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_cpattern ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_fr       ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_bt_vi    ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_bt_hi    ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_bt_ci    ;
+  std::unique_ptr<std::vector<std::vector<uint16_t> > > vt_ptlut_bt_si    ;
+  #endif
+
   //
   std::unique_ptr<int32_t              >  vt_size;
 
@@ -265,7 +297,7 @@ void NtupleMaker::getHandles(const edm::Event& iEvent, const edm::EventSetup& iS
   // Object filters
   emuHits_.clear();
   for (const auto& hit : (*emuHits_handle)) {
-    if (!(-1 <= hit.BX() && hit.BX() <= 1))  continue;  // only BX=[-1,+1]
+    // if (!(-1 <= hit.BX() && hit.BX() <= 1))  continue;  // only BX=[-1,+1]
     //if (hit.Endcap() != 1)  continue;  // only positive endcap
     if (hit.Subsystem() == TTTriggerPrimitive::kTT)  continue;  // ignore TTStubs
     emuHits_.push_back(hit);
@@ -431,6 +463,12 @@ void NtupleMaker::process() {
       }  // end loop over hits
     }  // end loop over trk.Hits()
 
+    // // Sanity check
+    //     for (int istation = 0; istation < 4; ++istation) {
+    //       bool has_hit = trk.Mode() & (1 << (3 - istation));
+    //       assert(has_hit == (hit_refs.at(istation) != -1));
+    //     }
+
     return hit_refs;
   };
 
@@ -503,6 +541,48 @@ void NtupleMaker::process() {
     vt_hitref2    ->push_back(hit_refs.at(1));
     vt_hitref3    ->push_back(hit_refs.at(2));
     vt_hitref4    ->push_back(hit_refs.at(3));
+    #if STORE_PTLUT_INFO
+    // PT stuff (L.C. 11/12/2017)
+    l1t::EMTFPtLUT ptlut = trk.PtLUT();
+    vt_ptlut_address    -> push_back(ptlut.address);
+    vt_ptlut_mode       -> push_back(ptlut.mode);
+    vt_ptlut_theta      -> push_back(ptlut.theta);
+    vt_ptlut_st1_ring2  -> push_back(ptlut.st1_ring2);
+    vt_ptlut_eta        -> push_back(ptlut.eta);
+    
+    // vt_ptlut_delta_ph  -> resize(vt_ptlut_delta_ph->size()+1);
+    // vt_ptlut_delta_th  -> resize(vt_ptlut_delta_th->size()+1);
+    // vt_ptlut_sign_ph   -> resize(vt_ptlut_sign_ph->size()+1);
+    // vt_ptlut_sign_th   -> resize(vt_ptlut_sign_th->size()+1);
+    // vt_ptlut_cpattern  -> resize(vt_ptlut_cpattern->size()+1);
+    // vt_ptlut_fr        -> resize(vt_ptlut_fr->size()+1);
+    // vt_ptlut_bt_vi     -> resize(vt_ptlut_bt_vi->size()+1);
+    // vt_ptlut_bt_hi     -> resize(vt_ptlut_bt_hi->size()+1);
+    // vt_ptlut_bt_ci     -> resize(vt_ptlut_bt_ci->size()+1);
+    // vt_ptlut_bt_si     -> resize(vt_ptlut_bt_si->size()+1);
+    // sizes known from struct definition
+    vt_ptlut_delta_ph  -> push_back( std::vector<uint16_t> (6) );
+    vt_ptlut_delta_th  -> push_back( std::vector<uint16_t> (6) );
+    vt_ptlut_sign_ph   -> push_back( std::vector<uint16_t> (6) );
+    vt_ptlut_sign_th   -> push_back( std::vector<uint16_t> (6) );
+    vt_ptlut_cpattern  -> push_back( std::vector<uint16_t> (4) );
+    vt_ptlut_fr        -> push_back( std::vector<uint16_t> (4) );
+    vt_ptlut_bt_vi     -> push_back( std::vector<uint16_t> (5) );
+    vt_ptlut_bt_hi     -> push_back( std::vector<uint16_t> (5) );
+    vt_ptlut_bt_ci     -> push_back( std::vector<uint16_t> (5) );
+    vt_ptlut_bt_si     -> push_back( std::vector<uint16_t> (5) );
+    
+    std::copy (std::begin(ptlut.delta_ph), std::end(ptlut.delta_ph), std::begin(vt_ptlut_delta_ph->back() )) ;
+    std::copy (std::begin(ptlut.delta_th), std::end(ptlut.delta_th), std::begin(vt_ptlut_delta_th->back() )) ;
+    std::copy (std::begin(ptlut.sign_ph),  std::end(ptlut.sign_ph),  std::begin(vt_ptlut_sign_ph->back()  )) ;
+    std::copy (std::begin(ptlut.sign_th),  std::end(ptlut.sign_th),  std::begin(vt_ptlut_sign_th->back()  )) ;
+    std::copy (std::begin(ptlut.cpattern), std::end(ptlut.cpattern), std::begin(vt_ptlut_cpattern->back() )) ;
+    std::copy (std::begin(ptlut.fr),       std::end(ptlut.fr),       std::begin(vt_ptlut_fr->back()       )) ;
+    std::copy (std::begin(ptlut.bt_vi),    std::end(ptlut.bt_vi),    std::begin(vt_ptlut_bt_vi->back()    )) ;
+    std::copy (std::begin(ptlut.bt_hi),    std::end(ptlut.bt_hi),    std::begin(vt_ptlut_bt_hi->back()    )) ;
+    std::copy (std::begin(ptlut.bt_ci),    std::end(ptlut.bt_ci),    std::begin(vt_ptlut_bt_ci->back()    )) ;
+    std::copy (std::begin(ptlut.bt_si),    std::end(ptlut.bt_si),    std::begin(vt_ptlut_bt_si->back()    )) ;
+    #endif
   }
   (*vt_size) = emuTracks_.size();
 
@@ -614,6 +694,24 @@ void NtupleMaker::process() {
   vt_hitref3    ->clear();
   vt_hitref4    ->clear();
   //
+  #if STORE_PTLUT_INFO
+  vt_ptlut_address    -> clear();
+  vt_ptlut_mode       -> clear();
+  vt_ptlut_theta      -> clear();
+  vt_ptlut_st1_ring2  -> clear();
+  vt_ptlut_eta        -> clear();
+  vt_ptlut_delta_ph   -> clear();
+  vt_ptlut_delta_th   -> clear();
+  vt_ptlut_sign_ph    -> clear();
+  vt_ptlut_sign_th    -> clear();
+  vt_ptlut_cpattern   -> clear();
+  vt_ptlut_fr         -> clear();
+  vt_ptlut_bt_vi      -> clear();
+  vt_ptlut_bt_hi      -> clear();
+  vt_ptlut_bt_ci      -> clear();
+  vt_ptlut_bt_si      -> clear();
+  #endif
+
   (*vt_size)    = 0;
 
   // Gen particles
@@ -703,6 +801,34 @@ void NtupleMaker::makeTree() {
   vt_hitref3    .reset(new std::vector<int32_t>());
   vt_hitref4    .reset(new std::vector<int32_t>());
   //
+  #if STORE_PTLUT_INFO
+  vt_ptlut_address    . reset(new std::vector<uint16_t> () );
+  vt_ptlut_mode       . reset(new std::vector<uint16_t> () );
+  vt_ptlut_theta      . reset(new std::vector<uint16_t> () );
+  vt_ptlut_st1_ring2  . reset(new std::vector<uint16_t> () );
+  vt_ptlut_eta        . reset(new std::vector<uint16_t> () );
+  // vt_ptlut_delta_ph   . reset(new std::vector<std::array<uint16_t, 6> > () );
+  // vt_ptlut_delta_th   . reset(new std::vector<std::array<uint16_t, 6> > () );
+  // vt_ptlut_sign_ph    . reset(new std::vector<std::array<uint16_t, 6> > () );
+  // vt_ptlut_sign_th    . reset(new std::vector<std::array<uint16_t, 6> > () );
+  // vt_ptlut_cpattern   . reset(new std::vector<std::array<uint16_t, 4> > () );
+  // vt_ptlut_fr         . reset(new std::vector<std::array<uint16_t, 4> > () );
+  // vt_ptlut_bt_vi      . reset(new std::vector<std::array<uint16_t, 5> > () );
+  // vt_ptlut_bt_hi      . reset(new std::vector<std::array<uint16_t, 5> > () );
+  // vt_ptlut_bt_ci      . reset(new std::vector<std::array<uint16_t, 5> > () );
+  // vt_ptlut_bt_si      . reset(new std::vector<std::array<uint16_t, 5> > () );
+  vt_ptlut_delta_ph   . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_delta_th   . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_sign_ph    . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_sign_th    . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_cpattern   . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_fr         . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_bt_vi      . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_bt_hi      . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_bt_ci      . reset(new std::vector<std::vector<uint16_t> > () );
+  vt_ptlut_bt_si      . reset(new std::vector<std::vector<uint16_t> > () );
+  #endif
+  //
   vt_size       .reset(new int32_t(0)            );
 
   // Gen particles
@@ -774,6 +900,24 @@ void NtupleMaker::makeTree() {
   tree->Branch("vt_hitref2"   , &(*vt_hitref2   ));
   tree->Branch("vt_hitref3"   , &(*vt_hitref3   ));
   tree->Branch("vt_hitref4"   , &(*vt_hitref4   ));
+  //
+  #if STORE_PTLUT_INFO
+  tree->Branch("vt_ptlut_address",   &(*vt_ptlut_address    ));
+  tree->Branch("vt_ptlut_mode",      &(*vt_ptlut_mode       ));
+  tree->Branch("vt_ptlut_theta",     &(*vt_ptlut_theta      ));
+  tree->Branch("vt_ptlut_st1_ring2", &(*vt_ptlut_st1_ring2  ));
+  tree->Branch("vt_ptlut_eta",       &(*vt_ptlut_eta        ));
+  tree->Branch("vt_ptlut_delta_ph",  &(*vt_ptlut_delta_ph   ));
+  tree->Branch("vt_ptlut_delta_th",  &(*vt_ptlut_delta_th   ));
+  tree->Branch("vt_ptlut_sign_ph",   &(*vt_ptlut_sign_ph    ));
+  tree->Branch("vt_ptlut_sign_th",   &(*vt_ptlut_sign_th    ));
+  tree->Branch("vt_ptlut_cpattern",  &(*vt_ptlut_cpattern   ));
+  tree->Branch("vt_ptlut_fr",        &(*vt_ptlut_fr         ));
+  tree->Branch("vt_ptlut_bt_vi",     &(*vt_ptlut_bt_vi      ));
+  tree->Branch("vt_ptlut_bt_hi",     &(*vt_ptlut_bt_hi      ));
+  tree->Branch("vt_ptlut_bt_ci",     &(*vt_ptlut_bt_ci      ));
+  tree->Branch("vt_ptlut_bt_si",     &(*vt_ptlut_bt_si      ));
+  #endif
   //
   tree->Branch("vt_size"      , &(*vt_size      ));
 
