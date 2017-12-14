@@ -1,0 +1,4 @@
+** INFO: using file list ../../Analyzers/batch/flatNtuples_SingleNeutrino_PU50_01Dic2017_bugFix.txt
+** INFO: opening files and creating TChain
+** INFO: starting loop over events
+... processing 0

@@ -1,0 +1,38 @@
+** INFO: using file list ../../Analyzers/batch/flatNtuples_SingleNeutrino_PU200_01Dic2017_bugFix.txt
+** INFO: opening files and creating TChain
+** INFO: creating histograms to store in file output_rate_files_PU200.root
+** INFO: starting loop over events
+** INFO: limiting to up to 200000 events
+... processing 0
+... processing 10000
+... processing 20000
+... processing 30000
+... processing 40000
+... processing 50000
+... processing 60000
+... processing 70000
+... processing 80000
+... processing 90000
+... processing 100000
+... processing 110000
+... processing 120000
+... processing 130000
+... processing 140000
+... processing 150000
+... processing 160000
+... processing 170000
+... processing 180000
+... processing 190000
+** INFO: loop finished
+  -- Inclusive events accepted 90339
+  -- Single gen track events accepted 84437
+  -- Single gen track events accepted including missing MC info tracks 21476
+  -- Single gen track events accepted excluding missing MC info tracks 71346
+
+  ----- Number of tracks with no info on N hits:
+                  0 miss    1 miss    2 miss    3 miss    4 miss
+nTothits: 0           0         -         -         -         -
+nTothits: 1           0         0         -         -         -
+nTothits: 2       50547      6216      8040         -         -
+nTothits: 3       35902      2762       412      4323         -
+nTothits: 4       35209      2578       176       231      4383

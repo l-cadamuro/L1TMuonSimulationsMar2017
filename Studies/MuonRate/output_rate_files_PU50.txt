@@ -1,0 +1,59 @@
+** INFO: using file list ../../Analyzers/batch/flatNtuples_SingleNeutrino_PU50_01Dic2017_bugFix.txt
+** INFO: opening files and creating TChain
+** INFO: starting loop over events
+** INFO: searching for 20 faulty events
+** INFO: picking events with (ptL1 - pttrue)/pttrue > 40%
+** INFO: Asking for L1 single mu quality? true
+... processing 0
+... processing 10000
+... processing 20000
+... processing 30000
+... processing 40000
+... processing 50000
+... processing 60000
+... processing 70000
+... processing 80000
+... processing 90000
+... processing 100000
+... processing 110000
+... processing 120000
+... processing 130000
+... processing 140000
+... processing 150000
+... processing 160000
+... processing 170000
+... processing 180000
+... processing 190000
+... processing 200000
+0 ** Event 16326   >> trks  0
+1 ** Event 18228   >> trks  0
+2 ** Event 33781   >> trks  0
+3 ** Event 36865   >> trks  0
+4 ** Event 74931   >> trks  0
+5 ** Event 84784   >> trks  0
+6 ** Event 128844   >> trks  0
+
+.... dumping tracks
+0 ** Event 16326** TRACKS INFO **  .. tot hits 34 .. tot tracks 2
+ Trk 0 - single mu qual? true  S1 (45/45) S2 (45/45) S3 (45/45) S4 (44/44)
+ Trk 1 - single mu qual? true  S1 (45/45) S2 (45/45) S3 (45/45) S4 (44/44)
+
+1 ** Event 18228** TRACKS INFO **  .. tot hits 20 .. tot tracks 2
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (X/X)
+ Trk 1 - single mu qual? false  S1 (X/X) S2 (-1/-1) S3 (-1/-1) S4 (X/X)
+
+2 ** Event 33781** TRACKS INFO **  .. tot hits 33 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (60/41) S2 (41/41) S3 (41/41) S4 (41/41)
+
+3 ** Event 36865** TRACKS INFO **  .. tot hits 20 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/28) S2 (28/28) S3 (28/28) S4 (X/X)
+
+4 ** Event 74931** TRACKS INFO **  .. tot hits 24 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (47/47) S2 (47/-1) S3 (47/47) S4 (47/47)
+
+5 ** Event 84784** TRACKS INFO **  .. tot hits 31 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (7/-1) S2 (X/X) S3 (42/42) S4 (42/42)
+
+6 ** Event 128844** TRACKS INFO **  .. tot hits 17 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (-1/-1)
+

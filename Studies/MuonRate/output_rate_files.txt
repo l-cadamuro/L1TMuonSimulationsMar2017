@@ -1,0 +1,57 @@
+** INFO: using file list ../../Analyzers/batch/flatNtuples_SingleNeutrino_PU50_01Dic2017_bugFix.txt
+** INFO: opening files and creating TChain
+** INFO: starting loop over events
+** INFO: searching for 10 faulty events
+** INFO: picking events with (ptL1 - pttrue)/pttrue > 40%
+** INFO: Asking for L1 single mu quality? true
+... processing 0
+0 ** Event 119   >> trks  0
+1 ** Event 212   >> trks  0 1
+2 ** Event 330   >> trks  0
+3 ** Event 368   >> trks  1
+4 ** Event 389   >> trks  0
+5 ** Event 431   >> trks  0
+6 ** Event 448   >> trks  1
+7 ** Event 585   >> trks  0
+8 ** Event 623   >> trks  0
+9 ** Event 740   >> trks  2
+
+.... dumping tracks
+0 ** Event 119** TRACKS INFO **  .. tot hits 34 .. tot tracks 3
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (X/X) S3 (-1/-1) S4 (-1/-1)
+ Trk 1 - single mu qual? false  S1 (41/41) S2 (X/X) S3 (X/X) S4 (41/41)
+ Trk 2 - single mu qual? false  S1 (X/X) S2 (41/41) S3 (41/41) S4 (X/X)
+
+1 ** Event 212** TRACKS INFO **  .. tot hits 27 .. tot tracks 2
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (-1/-1)
+ Trk 1 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (-1/-1)
+
+2 ** Event 330** TRACKS INFO **  .. tot hits 33 .. tot tracks 2
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (75/75) S3 (75/75) S4 (X/X)
+ Trk 1 - single mu qual? false  S1 (X/X) S2 (75/75) S3 (75/75) S4 (X/X)
+
+3 ** Event 368** TRACKS INFO **  .. tot hits 34 .. tot tracks 2
+ Trk 0 - single mu qual? false  S1 (49/49) S2 (49/49) S3 (X/X) S4 (X/X)
+ Trk 1 - single mu qual? true  S1 (-1/55) S2 (55/55) S3 (55/55) S4 (55/55)
+
+4 ** Event 389** TRACKS INFO **  .. tot hits 36 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/44) S3 (-1/-1) S4 (X/X)
+
+5 ** Event 431** TRACKS INFO **  .. tot hits 19 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (-1/-1)
+
+6 ** Event 448** TRACKS INFO **  .. tot hits 40 .. tot tracks 2
+ Trk 0 - single mu qual? true  S1 (42/42) S2 (42/42) S3 (42/42) S4 (42/42)
+ Trk 1 - single mu qual? true  S1 (50/54) S2 (50/50) S3 (50/50) S4 (50/50)
+
+7 ** Event 585** TRACKS INFO **  .. tot hits 20 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (X/X)
+
+8 ** Event 623** TRACKS INFO **  .. tot hits 20 .. tot tracks 1
+ Trk 0 - single mu qual? true  S1 (-1/-1) S2 (-1/-1) S3 (-1/-1) S4 (-1/-1)
+
+9 ** Event 740** TRACKS INFO **  .. tot hits 53 .. tot tracks 3
+ Trk 0 - single mu qual? false  S1 (X/X) S2 (60/63) S3 (63/63) S4 (X/X)
+ Trk 1 - single mu qual? true  S1 (60/60) S2 (X/X) S3 (60/60) S4 (60/60)
+ Trk 2 - single mu qual? true  S1 (63/63) S2 (60/63) S3 (63/63) S4 (X/X)
+
